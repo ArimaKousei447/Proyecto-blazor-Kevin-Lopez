@@ -7,4 +7,8 @@
     <RootNamespace>Blazor_KevJosue</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj" />
+  </ItemGroup>
+
 </Project>
